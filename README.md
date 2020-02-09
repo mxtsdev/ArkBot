@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/ark-mod/ArkBot/_apis/build/status/ark-mod.ArkBot?branchName=master)](https://dev.azure.com/ark-mod/ArkBot/_build/latest?definitionId=2&branchName=master)
 
+Test
+
 # Project status last updated Jan 21st 2020
 
 ### Support
